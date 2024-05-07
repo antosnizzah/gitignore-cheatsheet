@@ -1,0 +1,5 @@
+| pattern | explanation/matches| examples |
+| --------------- | --------------- | --------------- |
+| name.file | all files with the name.file will be ignored | /name.file|
+| /lib | all files with the /lib will be ignored | /lib |
+| *.log | all files with the .log will be ignored | .log |
